@@ -1,4 +1,6 @@
-### Localization in Spring Boot applications
+
+### `Youtube`: https://www.youtube.com/watch?v=R68OJVIXKv0&ab_channel=CaseyBui
+---
 
 - The **`LanguageConfig`** class defines a list of supported locales, in this case "en" and "vi".
 
@@ -82,6 +84,9 @@ public class TestService {
 
 // messages_en.properties
 greeting=hello
+
+// messages_fr.properties
+greeting=bonjour
 
 // messages_vi.properties
 greeting=xin chào
